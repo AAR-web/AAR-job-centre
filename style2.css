@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Times New Roman", sans-serif;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #fff;
+}
+
+.Subscription-terms{
+     width: 250px;
+    height: 330px;
+    background-color: #fff;
+    justify-content: center;
+    align-items: center;
+    top: 50%;
+    left: 50%;
+    padding: 40px 25px;
+}
+
+.subscription-box{
+    width: 220px;
+    text-align: center;
+    padding-left: 11px;
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.subscription-box h1{
+    color: #ff0000;
+}
+
+.subscription-box input{
+      width: 100%;
+    height: 35px;
+    padding-top: 5px;
+    outline: none;
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+
+.subscription-box h2{
+    color: aqua;
+}
